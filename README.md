@@ -2,4 +2,4 @@
 - 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning Lua, Java, and C++.
 - 💞️ I’m looking to collaborate on any CS Projects.
-- 📫 How to reach me at marrubio07@gmail.com
+- 📫 How to reach, twitter @The_TUSoK
