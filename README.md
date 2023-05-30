@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @The-TUSK or Mark Andrey Rubio (Mark)
+- 👋 Hi, I’m @The-TUSK
 - 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning Lua, Java, and C++.
 - 💞️ I’m looking to collaborate on any CS Projects.
